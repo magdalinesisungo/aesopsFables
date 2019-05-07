@@ -1,0 +1,114 @@
+<resources>
+    <string name="app_name">Aesop’s Fables</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_aesops_fables">activity_aesopsFables</string>
+    <string name="title_activity_fable1">Fable1Activity</string>
+    <string name="Fable_1_text">
+        A quarrel had arisen between the Horse and the Stag, so the Horse came to a Hunter to ask his help to take revenge on the Stag.
+
+The Hunter agreed, but said: \n\n"If you desire to conquer the Stag, you must permit me to place this piece of iron between your jaws, so that I may guide you with these reins, and allow this saddle to be placed upon your back so that I may keep steady upon you as we follow after the enemy."\n\n
+
+The Horse agreed to the conditions, and the Hunter soon saddled and bridled him.\n\n
+
+Then with the aid of the Hunter the Horse soon overcame the Stag, and said to the Hunter: \n\n"Now, get off, and remove those things from my mouth and back."
+
+"Not so fast, friend," said the Hunter. "I have now got you under bit and spur, and prefer to keep you as you are at present."
+    </string>
+    <string name="title_activity_fable2_ativity">Fable2Ativity</string>
+    <string name="Fable_2_text">
+        A Jay venturing into a yard where Peacocks used to walk, found there a number of feathers which had fallen from the Peacocks when they were moulting.
+
+He tied them all to his tail and strutted down towards the Peacocks.\n\n
+
+When he came near them they soon discovered the cheat, and striding up to him pecked at him and plucked away his borrowed plumes.
+
+So the Jay could do no better than go back to the other Jays, who had watched his behaviour from a distance; but they were equally annoyed with him, \n\nand told him:
+
+"It is not only fine feathers that make fine birds"
+    </string>
+    <string name="title_activity_fable3">Fable3Activity</string>
+    <string name="Fable_3_text">On a summer day, when the great heat induced a general thirst, a Lion and a Boar came at the same moment to a small well to drink.
+
+They fiercely disputed which of them should drink first, and were soon engaged in the agonies of a mortal combat.\n\n
+
+On their stopping on a sudden to take breath for the fiercer renewal of the strife, they saw some Vultures waiting in the distance to feast on the one which should fall first.
+
+They at once made up their quarrel, saying:\n\n
+
+"It is better for us to make friends, than to become the food of Crows or Vultures, as will certainly happen if we are disabled."</string>
+    <string name="title_activity_fable4">Fable4Activity</string>
+    <string name="Fable_4_text">A Hound, who in the days of his youth and strength had never yielded to any beast of the forest, encountered in his old age a boar in the chase.
+
+He seized him boldly by the ear, but could not retain his hold because of the decay of his teeth, so that the boar escaped.\n\n
+
+His master, quickly coming up, was very much disappointed, and fiercely abused the dog.
+
+The Hound looked up and said: "It was not my fault, master; my spirit was as good as ever, but I could not help mine infirmities.\n\n I rather deserve to be praised for what I have been, than to be blamed for what I am."</string>
+    <string name="title_activity_fable5">Fable5Activity</string>
+    <string name="Fable_5_text">
+        There was once a Bald Man who sat down after work on a hot summers day.
+
+A Fly came up and kept buzzing about his bald pate, and stinging him from time to time.\n\n
+
+The Man aimed a blow at his little enemy, but his palm came on his head instead.
+
+Again the Fly tormented him, but this time the Man was wiser and said:\n\n
+
+"You will only injure yourself if you take notice of despicable enemies."
+
+ </string>
+    <string name="title_activity_fable6">Fable6Activity</string>
+    <string name="Fable_6_text">A Hound, who in the days of his youth and strength had never yielded to any beast of the forest, encountered in his old age a boar in the chase.\n\n
+
+He seized him boldly by the ear, but could not retain his hold because of the decay of his teeth, so that the boar escaped.
+
+His master, quickly coming up, was very much disappointed, and fiercely abused the dog.\n\n
+
+The Hound looked up and said: "It was not my fault, master; my spirit was as good as ever, but I could not help mine infirmities. I rather deserve to be praised for what I have been, than to be blamed for what I am."
+
+ </string>
+    <string name="title_activity_fable7">Fable7Activity</string>
+    <string name="Fable_7_text">The gods were once disputing whether it was possible for a living being to change its nature.
+
+Jupiter said "Yes," but Venus said "No." So, to try the question, Jupiter turned a Cat into a Maiden, and gave her to a young man for a wife.\n\n
+
+The wedding was duly performed and the young couple sat down to the wedding-feast.
+
+"See," said Jupiter, to Venus, "how becomingly she behaves. Who could tell that yesterday she was but a Cat? Surely her nature is changed?"\n\n
+
+"Wait a minute," replied Venus, and let loose a mouse into the room.
+
+No sooner did the bride see this than she jumped up from her seat and tried to pounce upon the mouse.\n\n
+
+"Ah, you see," said Venus, "Nature will out"</string>
+    <string name="title_activity_fable8">Fable8Activity</string>
+    <string name="Fable_8_text">In the old days men used to worship stocks and stones and idols, and prayed to them to give them luck.
+
+It happened that a Man had often prayed to a wooden idol he had received from his father, but his luck never seemed to change.\n\n
+
+He prayed and he prayed, but still he remained as unlucky as ever.
+
+One day in the greatest rage he went to the Wooden God, and with one blow swept it down from its pedestal.\n\n
+
+The idol broke in two, and what did he see?
+
+An immense number of coins flying all over the place.
+
+ </string>
+    <string name="title_activity_fable9">Fable9Activity</string>
+    <string name="Fable_9_text">
+        An Ass congratulated a Horse on being so ungrudgingly and carefully provided for, while he himself had scarcely enough to eat,\n\n nor even that without hard work.
+
+But when war broke out, the heavy armed soldier mounted the Horse, and rushed into the very midst of the enemy, and the Horse, being wounded, fell dead on the battle-field.
+
+Then the Ass, seeing all these things, changed his mind, and commiserated the Horse, saying: "How much more fortunate am I than a charger.\n\n I can remain at home in safety while he is exposed to all the perils of war."</string>
+    <string name="title_activity_fable10">Fable10Activity</string>
+    <string name="Fable_10_text">A Dog used to run up quietly to the heels of those he met, and to bite them without notice.
+
+His master sometimes suspended a bell about his neck, that he might give notice of his presence wherever he went, \n\n and sometimes he fastened a chain about his neck, to which was attached a heavy clog, so that he could not be so quick at biting peoples heels.
+
+The Dog grew proud of his bell and clog, and went with them all over the market-place.
+
+An old hound said to him: "Why do you make such an exhibition of yourself? That bell and clog that you carry are not, believe me, orders of merit, but, on the contrary, marks of disgrace, a public notice to all men to avoid you as an ill-mannered dog."</string>
+
+</resources>
